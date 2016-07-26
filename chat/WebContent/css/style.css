@@ -1,0 +1,53 @@
+/* login.html */
+#login{
+border:1px solid #ccc;
+width:14em;
+height:12em;
+margin:12em auto;
+}
+h3{
+	background-color:#ccc;
+	margin:0;
+}
+#content{
+text-align:center;
+}
+.txt{
+	margin-bottom:1em;
+}
+#divmsg{
+	display:none;
+}
+
+/* ChatMain.html */
+#chat{
+	border:1px solid #000;
+	width:70%;
+	height:600px;
+	margin:auto auto;
+}
+#Content{
+	border-right:1px solid #adadad;
+	float:left;
+	width:70%;
+	height:100%;
+}
+#report{
+	border-bottom:1px solid #ccc;
+	height:60%;
+	overflow-y:scroll; 
+}
+#send,#meg{
+	padding:1em;
+}
+#online{
+	height:100%;
+}
+#pepole{
+	overflow-y:scroll;
+	height:95.5%;
+}
+img{
+	display:inline;
+	
+}
